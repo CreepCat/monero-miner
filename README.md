@@ -1,3 +1,3 @@
-# monero-miner
+# Info
 
-Dockerfile for https://hub.docker.com/r/kannix/monero-miner/
+Debian 9 based Monero Miner
